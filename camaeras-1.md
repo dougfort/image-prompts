@@ -1,26 +1,30 @@
+# Cameras
+
+##
+
 That’s a great instinct—understanding camera “lore” can help fine-tune prompts for even more cinematic and authentic results. Here’s a quick guide to boost your image prompts:
 
 ### 📸 **Camera Lore to Use in Prompts**
 
 1. **Camera Body + Lens**
 
-   * *Leica M6 + 50mm* (like you used): Classic film look, shallow depth of field, rich colors.
-   * *Canon AE-1 + 35mm*: Vintage, street-style, more scene in frame.
-   * *Hasselblad 500CM + 80mm*: Medium format film, extremely sharp, square frame, often used in portraits.
-   * *Sony A7R IV + 85mm f/1.4*: Modern digital, ultra-detailed, creamy bokeh for portraits.
+   * *Leica M6 + 50 mm* (like you used): Classic film look, shallow depth of field, rich colors.
+   * *Canon AE-1 + 35 mm*: Vintage, street-style, more scene in frame.
+   * *Hasselblad 500CM + 80 mm*: Medium format film, extremely sharp, square frame, often used in portraits.
+   * *Sony A7R IV + 85 mm f/1.4*: Modern digital, ultra-detailed, creamy bokeh for portraits.
 
 2. **Lens Style**
 
-   * *50mm*: Natural perspective, classic portrait lens.
-   * *35mm*: Wider angle, great for environmental portraits and storytelling.
-   * *85mm or 135mm*: Flattering for headshots, very shallow depth of field.
+   * *50 mm*: Natural perspective, classic portrait lens.
+   * *35 mm*: Wider angle, great for environmental portraits and storytelling.
+   * *85 mm or 135 mm*: Flattering for headshots, very shallow depth of field.
    * *Wide Aperture (f/1.4 – f/2.0)*: Great for dreamy, soft backgrounds.
 
 3. **Film Stock**
 
    * *Kodak Portra 400*: Warm tones, great skin, cinematic.
    * *Fujifilm Superia*: Cooler, punchy colors, high contrast.
-   * *Ilford HP5 (B\&W)*: Moody black and white, good for emotional impact.
+   * *Ilford HP5 (B&W)*: Moody black and white, good for emotional impact.
 
 4. **Lighting Terms**
 
@@ -36,7 +40,7 @@ That’s a great instinct—understanding camera “lore” can help fine-tune p
 
 6. **Styling & Vibes**
 
-   * *Cinematic / analog-style*: Use with “shot on 35mm film,” “natural grain,” “muted tones.”
+   * *Cinematic / analog-style*: Use with “shot on 35 mm film,” “natural grain,” “muted tones.”
    * *Documentary look*: Use “candid moment,” “available light,” “photojournalism style.”
    * *Editorial*: Use “posed,” “studio lighting,” “high-end magazine aesthetic.”
 
